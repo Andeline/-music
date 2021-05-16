@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5743B1D4264EBAE2009DBA2B /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5743B1D3264EBAE2009DBA2B /* Question.swift */; };
 		577A645A264D726D006E96A1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577A6459264D726D006E96A1 /* AppDelegate.swift */; };
 		577A645C264D726D006E96A1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577A645B264D726D006E96A1 /* SceneDelegate.swift */; };
 		577A645E264D726D006E96A1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577A645D264D726D006E96A1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5743B1D3264EBAE2009DBA2B /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		577A6456264D726D006E96A1 /* 音樂常識選擇題.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "音樂常識選擇題.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		577A6459264D726D006E96A1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		577A645B264D726D006E96A1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				577A6459264D726D006E96A1 /* AppDelegate.swift */,
 				577A645B264D726D006E96A1 /* SceneDelegate.swift */,
 				577A645D264D726D006E96A1 /* ViewController.swift */,
+				5743B1D3264EBAE2009DBA2B /* Question.swift */,
 				577A645F264D726D006E96A1 /* Main.storyboard */,
 				577A6462264D7270006E96A1 /* Assets.xcassets */,
 				577A6464264D7270006E96A1 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				577A645E264D726D006E96A1 /* ViewController.swift in Sources */,
+				5743B1D4264EBAE2009DBA2B /* Question.swift in Sources */,
 				577A645A264D726D006E96A1 /* AppDelegate.swift in Sources */,
 				577A645C264D726D006E96A1 /* SceneDelegate.swift in Sources */,
 			);
